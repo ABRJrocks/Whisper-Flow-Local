@@ -1,0 +1,5 @@
+.DS_Store
+FlowLocal/.build/
+FlowLocal/build/
+FlowLocal/Vendor/mlx.metallib
+FlowLocal/.xcbuild/
